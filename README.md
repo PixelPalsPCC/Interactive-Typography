@@ -1,3 +1,3 @@
 # Interactive-Typography
 
-<a href="https://pixelpalspcc.github.io/movingtype" target="_blank">George: https://pixelpalspcc.github.io/movingtype</a>
+George: <a href="https://pixelpalspcc.github.io/movingtype" target="_blank">https://pixelpalspcc.github.io/movingtype</a><br>
