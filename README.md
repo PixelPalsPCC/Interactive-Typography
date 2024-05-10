@@ -16,4 +16,6 @@ Daniel:<a href="https://github.com/DannyBoy1320/Moving-Type" target="_blank">htt
 
 Eli :<a href="https://fnx-sk8.github.io/interactiveTypo" target="_blank"> https://fnx-sk8.github.io/interactiveTypo </a><br>
 
+Jason: <a href="https://jingchunyang.github.io/type-animation/" target="_blank"> https://jingchunyang.github.io/type-animation/ </a><br>
+
 
