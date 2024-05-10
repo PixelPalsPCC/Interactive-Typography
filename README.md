@@ -13,3 +13,7 @@ Mariam: <a href="https://mlora00.github.io/AssignmentTwo-Typography/" target="_b
 Alicia: <a href="https://aliciaxl.github.io/interactive-typography-1/" target="_blank">https://aliciaxl.github.io/interactive-typography-1/</a><br>
 
 Daniel:<a href="https://github.com/DannyBoy1320/Moving-Type" target="_blank">https://github.com/DannyBoy1320/Moving-TypeV2
+
+Eli :<a href="https://fnx-sk8.github.io/interactiveTypo" target="_blank"> https://fnx-sk8.github.io/interactiveTypo </a><br>
+
+
