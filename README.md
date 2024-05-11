@@ -18,4 +18,5 @@ Eli :<a href="https://fnx-sk8.github.io/interactiveTypo" target="_blank"> https:
 
 Jason: <a href="https://jingchunyang.github.io/type-animation/" target="_blank"> https://jingchunyang.github.io/type-animation/ </a><br>
 
+Kat: <a href="https://katiekat-wrig.github.io/kinetic-type/" target="_blank"> https://katiekat-wrig.github.io/kinetic-type/ </a><br>
 
