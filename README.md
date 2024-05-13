@@ -20,6 +20,6 @@ Jason: <a href="https://jingchunyang.github.io/type-animation/" target="_blank">
 
 Kat: <a href="https://katiekat-wrig.github.io/kinetic-type/" target="_blank"> https://katiekat-wrig.github.io/kinetic-type/ </a><br>
 
-Ariel: <a href="https://ariellang.github.io/KineticTypography_Project/" target="_blank"> https://katiekat-wrig.github.io/kinetic-type/ </a><br>
+Ariel: <a href="https://ariellang.github.io/KineticTypography_Project/" target="_blank"> https://ariellang.github.io/KineticTypography_Project/ </a><br>
 
 
