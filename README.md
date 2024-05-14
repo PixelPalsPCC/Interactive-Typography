@@ -24,4 +24,4 @@ Ariel: <a href="https://ariellang.github.io/KineticTypography_Project/" target="
 
 Giselle: <a href="https://tlcgiselle.github.io/Moving_Type/" target="_blank"> https://tlcgiselle.github.io/Moving_Type/ </a><br>
 
-Maddy <a href="https://madleyva.github.io/KineticType/' target="_blank"> https://madleyva.github.io/KineticType/ </a><br>
+Maddy: <a href="https://madleyva.github.io/KineticType/" target="_blank"> https://madleyva.github.io/KineticType/ </a><br>
