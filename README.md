@@ -22,4 +22,4 @@ Kat: <a href="https://katiekat-wrig.github.io/kinetic-type/" target="_blank"> ht
 
 Ariel: <a href="https://ariellang.github.io/KineticTypography_Project/" target="_blank"> https://ariellang.github.io/KineticTypography_Project/ </a><br>
 
-
+Giselle: <a href="https://tlcgiselle.github.io/Moving_Type/" target="_blank"> https://tlcgiselle.github.io/Moving_Type/ </a><br>
